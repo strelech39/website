@@ -28,14 +28,6 @@ yarn dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-## Authors
-
-- Pedro Duarte ([@peduarte](https://twitter.com/peduarte))
-- Benoit Grelard ([@benoitgrelard](https://twitter.com/benoitgrelard)) - [WorkOS](https://workos.com)
-- Jenna Smith ([@jjenzz](https://twitter.com/jjenzz))
-- Colm Tuite ([@colmtuite](https://twitter.com/colmtuite)) - [WorkOS](https://workos.com)
-- Chance Strickland ([@chancethedev](https://twitter.com/chancethedev))
-
 ---
 
 Copyright © 2022-present [WorkOS](https://workos.com).
